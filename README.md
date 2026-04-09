@@ -5,6 +5,8 @@
 This project focuses on analyzing sales performance and customer behavior using Power BI.
 The dataset consists of customer and order data, which were transformed into a structured data model to generate meaningful business insights.
 
+This project presents an interactive Power BI report with a dashboard-style layout built using the Adventure Works dataset.
+
 ---
 
 ## 🎯 Business Objective
