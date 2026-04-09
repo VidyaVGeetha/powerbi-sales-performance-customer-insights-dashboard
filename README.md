@@ -183,3 +183,5 @@ The dataset consists of customer and order data, which were transformed into a s
 This project demonstrates the complete data analysis workflow using Power BI, from data preparation and modeling to delivering actionable insights through an interactive dashboard.
 
 ---
+Author
+Vidya Vishnuvihar Geetha
