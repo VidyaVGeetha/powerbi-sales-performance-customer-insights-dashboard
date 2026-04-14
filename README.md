@@ -165,8 +165,9 @@ This project presents an interactive Power BI report with a dashboard-style layo
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard](Dashboard_ScreenshotNew.png)
 
-<img width="616" height="360" alt="Dashboard_ScreenshotNew" src="https://github.com/user-attachments/assets/2deae86f-9652-4663-b386-7b67f3039bb4" />
+
 
 ---
 
